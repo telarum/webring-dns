@@ -1,0 +1,42 @@
+# below is an example of what a dns record would look like.
+[metadata]
+name = "pizza's webring"
+scope =  "public"
+last_updated= "1 Jan 1970"
+
+[[data]]
+type= "A"
+in= "example.com"
+out= "127.0.0.1"
+ttl= "600"
+
+[[data]]
+type= "CNAME"
+in= "www.example.com"
+out= "example.com"
+ttl= "86400"
+
+[[data]]
+type= "TXT"
+in= "txt.example.com"
+out= "datkey=ikc2psg593oww9dk14dutt2nxtcy849hybbvkbkfto25ghq8chebu9zdly2zfjbp"
+
+[[data]]
+type= "WRDAT"
+in= "zvava.cock"
+out= "dat://h3clbib9tpucuf0k75g9xteftagdvyehdvd1x8t04tysad3pqjxdp8ugptyf3e65"
+
+[[data]]
+type= "DAT"
+in= "repos.sourceshack"
+out= "dat://ikc2psg593oww9dk14dutt2nxtcy849hybbvkbkfto25ghq8chebu9zdly2zfjbp"
+
+[[data]]
+type= "WRTEL"
+in= "zvava.cock"
+out= "teluram://k14dutt2nxtcy849hybbvkh3clbib9tpucuf0k75g9xtem3pqjxdp8ugptyf3e65"
+
+[[data]]
+type= "TEL"
+in= "repos.sourceshack"
+out= "teluram://849hybbvkbkfto25ghq8choww9dk14dutt2nxtcyebu9zdly2ikc2psg593zfjbp"
