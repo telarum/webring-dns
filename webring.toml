@@ -1,0 +1,18 @@
+# the default name for client webrings is local
+# it can be changed to 'com' or something
+[metadata]
+name = "local"
+# ips of hosted webrings
+webrings = [
+	"3.4.5.6",
+	"1.4.5.6"
+]
+
+# "dns records", AKA known nodes. 
+[nodes]
+fuckyouall = "1.2.3.4"
+stiffcocks = "2.3.4.5"
+
+# aliases for conflicting webrings
+[webrings]
+space = "3.4.5.6"

@@ -1,0 +1,20 @@
+{
+  "name": "webring-dns",
+  "version": "1.0.0",
+  "description": "host a webring and DNS in one",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/telarum/webring-dns.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/telarum/webring-dns/issues"
+  },
+  "homepage": "https://github.com/telarum/webring-dns#readme",
+  "dependencies": {
+    "json2toml": "^2.0.1",
+    "toml": "^3.0.0"
+  }
+}

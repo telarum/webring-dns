@@ -5,5 +5,5 @@
 | TXT | txt.example.com | datkey=ikc2psg593oww9dk14dutt2nxtcy849hybbvkbkfto25ghq8chebu9zdly2zfjbp |
 | WRDAT | zvava.cock | dat://h3clbib9tpucuf0k75g9xteftagdvyehdvd1x8t04tysad3pqjxdp8ugptyf3e65 |
 | DAT | repos.sourceshack | dat://ikc2psg593oww9dk14dutt2nxtcy849hybbvkbkfto25ghq8chebu9zdly2zfjbp |
-| WRTEL | zvava.cock | teluram://k14dutt2nxtcy849hybbvkh3clbib9tpucuf0k75g9xtem3pqjxdp8ugptyf3e65 |
-| TEL | repos.sourceshack | teluram://849hybbvkbkfto25ghq8choww9dk14dutt2nxtcyebu9zdly2ikc2psg593zfjbp |
+| WRTEL | zvava.cock | telarum://k14dutt2nxtcy849hybbvkh3clbib9tpucuf0k75g9xtem3pqjxdp8ugptyf3e65 |
+| TEL | repos.sourceshack | telarum://849hybbvkbkfto25ghq8choww9dk14dutt2nxtcyebu9zdly2ikc2psg593zfjbp |
